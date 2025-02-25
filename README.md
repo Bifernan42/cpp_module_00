@@ -1,1 +1,1 @@
-This module is about learning streams like std::cout, basic string operations and marks the first step in OOP.
+#This first module is about learning I/O streams (std::cin, std::cout), and basic string operations by making a 80's style PhoneBook software. It marks my first steps in OOP concepts.
